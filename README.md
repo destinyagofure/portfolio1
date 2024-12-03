@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi dear! I'm Agofure Destiny 🤓,a dynamic and results-driven professional with expertise in Finance and Accounting. Passionate about delivering innovative solutions, fostering growth, and driving success. Committed to continuous learning and collaborating for impactful outcomes. Let's connect!.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
